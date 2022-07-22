@@ -95,3 +95,23 @@ nav{
      font-weight: 400; 
      text-align: left; 
  }
+
+ 
+
+/*CONTACTO*/
+
+.form-label, #contacto{
+    color: #0C273D
+}
+
+.form-label{
+    font-family: 'Tajawal', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.btn{
+    color: white;
+    background-color:  #0C273D;
+    border-color: white;
+}
