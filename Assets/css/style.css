@@ -62,3 +62,36 @@ nav{
 #quienessomos{
    color: #0C273D;
 }
+
+
+/*DESTACADOS*/
+
+#DESTACADOS{
+    color: #D8FFDB; 
+ }
+ 
+ h5{
+     font-family: 'Tajawal', sans-serif;
+     font-size: 22px;
+     font-weight: 500;     
+ }
+ 
+ 
+ #destacados .image-top {
+     height: 200px;
+     width: 315px;
+     background-repeat: no-repeat;
+     background-size:cover;
+     background-position: center;
+ }
+ 
+ #card1, #card2, #card3, #card4{
+     display: inline-block;
+ }
+ 
+ .card-text{
+     font-family: 'Tajawal', sans-serif;
+     font-size: 16px;
+     font-weight: 400; 
+     text-align: left; 
+ }
