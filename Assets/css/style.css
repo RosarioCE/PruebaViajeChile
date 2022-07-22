@@ -115,3 +115,35 @@ nav{
     background-color:  #0C273D;
     border-color: white;
 }
+
+
+/*FOOTER*/
+
+footer{
+    text-align: center;
+    background-color:#0C273D;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 20px;
+}
+
+footer a {
+    color: white;
+    margin: 0px 15px;
+    text-decoration: none;
+}
+
+footer p{
+    margin-top: 40px;
+    color: white;
+}
+
+/* Color Theme Swatches in Hex */
+.Paneland-3-1-hex { color: #36362B; }
+.Paneland-3-2-hex { color: #5D917D; }
+.Paneland-3-3-hex { color: #A8AD80; }
+.Paneland-3-4-hex { color: #E6D3A8; }
+.Paneland-3-4-hex { color: #0C273D; }
+
+
